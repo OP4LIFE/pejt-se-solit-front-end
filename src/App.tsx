@@ -1,12 +1,20 @@
-import React from 'react';
-import logo from './logo.svg';
+import { Route, Routes } from 'react-router-dom';
 import './App.css';
+import Contact from './pages/Contact';
+import Home from './pages/Home';
+import Header from './pages/Header';
+import Shop from './pages/Shop';
 
 function App() {
   return (
-    <header>
-      <h1 className="text-xl font-bold text-center bg-green-600 text-white">Pejt se solit</h1>
-    </header>
+    <>
+      <Header />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/shop" element={<Shop />} />
+        <Route path="/contact" element={<Contact />} />
+      </Routes>
+    </>
   );
 }
 
