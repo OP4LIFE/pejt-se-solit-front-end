@@ -10,7 +10,7 @@ function App() {
     <>
       <Header />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/pejt-se-solit-front-end" element={<Home />} />
         <Route path="/shop" element={<Shop />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
