@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Pejt se solit - front end
+
+## Evidenca ur
+ - 1h, 16.9.2025: Tried to configure deployment to GitHub Pages.
+ - 1h, 17.9.2025: Configured deployment to GitHub Pages.
+ 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
