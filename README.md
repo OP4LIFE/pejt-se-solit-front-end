@@ -3,6 +3,7 @@
 ## Evidenca ur
  - 1h, 16.9.2025: Tried to configure deployment to GitHub Pages.
  - 1h, 17.9.2025: Configured deployment to GitHub Pages.
+ - 2h, 21.9.2025: Pages and translations.
  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
